@@ -1,11 +1,11 @@
 # Whats up :v:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaynanribeiro/)](https://www.linkedin.com/in/thaynanribeiro/)
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ThaynanRibeiro)](https://github.com/ThaynanRibeiro)
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thaynanribeiro)](https://github.com/thaynanribeiro)
  <div>
   <a href="https://github.com/ThaynanRibeiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThaynanRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaynanRibeiro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynanribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!--
