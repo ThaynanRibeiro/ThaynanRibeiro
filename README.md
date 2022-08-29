@@ -34,7 +34,7 @@
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
- ![Zabbix](https://img.shields.io/badge/Zabbix-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+ ![Zabbix](https://img.shields.io/badge/Zabbix-F80000?style=for-the-badge&logo=white)
  
  # IDEs/Editors
  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
