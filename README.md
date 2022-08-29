@@ -5,15 +5,15 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaynanribeiro/)
 [![Outlook](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=thaynan.thay@hotmail.com)](mailto:thaynan.thay@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517996188062)
-
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThaynanRibeiro&theme=dark&border=35DD15&background=000000)](https://git.io/streak-stats)
 
 
  <div>
   <a href="https://github.com/ThaynanRibeiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynanribeiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>  
 </div>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThaynanRibeiro&theme=dark&border=35DD15&background=000000)](https://git.io/streak-stats)
+
 
  
 # Databases
