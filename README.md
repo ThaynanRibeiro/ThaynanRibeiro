@@ -1,7 +1,7 @@
 # Whats up :v:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaynanribeiro/)](https://www.linkedin.com/in/thaynanribeiro/)
-<a href = "mailto: thaynanh77@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23EA4335?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:thaynan.thay@hotmail.com)
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thaynanribeiro)](https://github.com/thaynanribeiro)
 <a href="https://www.instagram.com/thay_henriquee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
