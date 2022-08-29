@@ -1,10 +1,10 @@
 # Whats up :v:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaynanribeiro/)](https://www.linkedin.com/in/thaynanribeiro/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:thaynan.thay@hotmail.com)](mailto:thaynan.thay@hotmail.com)
+ ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:thaynan.thay@hotmail.com)](mailto:thaynan.thay@hotmail.com)
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thaynanribeiro)](https://github.com/thaynanribeiro)
  [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/thay_henriquee)](https://www.instagram.com/thay_henriquee/)
- ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
 
  <div>
   <a href="https://github.com/ThaynanRibeiro">
