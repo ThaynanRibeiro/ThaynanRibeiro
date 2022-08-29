@@ -1,6 +1,6 @@
-<div id="header" align="center">
 # Whats up :v:
 
+<div id="header" align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaynanh77@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaynanribeiro)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/thay_henriquee)](https://www.instagram.com/thay_henriquee/)
