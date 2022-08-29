@@ -44,9 +44,6 @@
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
  ![Profile View Counter](https://komarev.com/ghpvc/?thaynanribeiro=Tanu-N-Prabhu)
- [![GitHub latest commit](https://badgen.net/github/last-commit/thaynanribeiro/Strapdown.js)](https://GitHub.com/thaynanribeiro/StrapDown.js/commit/)
- [![GitHub forks](https://img.shields.io/github/forks/thaynanribeiro/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/thaynanribeiro/StrapDown.js/network/)
- [![GitHub watchers](https://img.shields.io/github/watchers/thaynanribeiro/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/thaynanribeiro/StrapDown.js/watchers/)
  
 <!--
 Here are some ideas to get you started:
