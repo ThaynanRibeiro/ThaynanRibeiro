@@ -44,7 +44,9 @@
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
  
- <img src=https://komarev.com/ghpvc/thaynanribeiro = GitHub_thaynanribeiro/>
+ <img src=https://komarev.com/ghpvc/thaynanribeiro=GitHub_thaynanribeiro/>
+ <img src=https://komarev.com/ghpvc/?username = GitHub_Username/>
+
 
 <!--
 Here are some ideas to get you started:
