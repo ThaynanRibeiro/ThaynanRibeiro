@@ -14,7 +14,7 @@
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=ThaynanRibeiro&theme=dark&border=06DD00&background=000000&sideLabels=06DD00&stroke=06DD00)](https://git.io/streak-stats"/>
 </div>
 
-#My Skills
+# My Skills
  
 # Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
