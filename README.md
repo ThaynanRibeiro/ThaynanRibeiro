@@ -12,9 +12,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynanribeiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>  
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=ThaynanRibeiro&theme=dark&border=06DD00&background=000000&sideLabels=06DD00&stroke=06DD00)](https://git.io/streak-stats"/>
-</div>
-
-# My Skills
+   <h1>  My Skills </h2>
+   </div>
  
 # Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
