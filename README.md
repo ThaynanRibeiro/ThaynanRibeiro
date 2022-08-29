@@ -6,14 +6,6 @@
 [![Outlook](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=thaynan.thay@hotmail.com)](mailto:thaynan.thay@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517996188062)
 
-
- <div>
-  <a href="https://github.com/ThaynanRibeiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynanribeiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>  
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=ThaynanRibeiro&theme=dark&border=06DD00&background=000000&sideLabels=06DD00&stroke=06DD00)](https://git.io/streak-stats"/>
-</div>
-
  # Skills
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  ![Oracle](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -37,6 +29,12 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+ <div>
+  <a href="https://github.com/ThaynanRibeiro">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynanribeiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>  
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=ThaynanRibeiro&theme=dark&border=06DD00&background=000000&sideLabels=06DD00&stroke=06DD00)](https://git.io/streak-stats"/>
+</div>
 
 <!--
 Here are some ideas to get you started:
