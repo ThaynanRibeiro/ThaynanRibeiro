@@ -15,6 +15,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
+ <div>
+  <h1>Databases</h1>
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ </div>
+  
 <!--
 Here are some ideas to get you started:
 
