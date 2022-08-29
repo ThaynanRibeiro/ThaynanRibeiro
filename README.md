@@ -7,6 +7,11 @@
 [![Outlook](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=thaynan.thay@hotmail.com)](mailto:thaynan.thay@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517996188062)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
  <div>
   <a href="https://github.com/ThaynanRibeiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynanribeiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -42,10 +47,6 @@
  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-
 
 <!--
 Here are some ideas to get you started:
