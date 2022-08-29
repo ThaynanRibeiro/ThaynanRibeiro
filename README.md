@@ -45,7 +45,7 @@
 
  
  <img src=https://komarev.com/ghpvc/thaynanribeiro=GitHub_thaynanribeiro/>
- <img src=https://komarev.com/ghpvc/?username = GitHub_Username/>
+ <img src=https://komarev.com/ghpvc/?username=GitHub_Username/>
 
 
 <!--
