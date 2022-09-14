@@ -12,7 +12,6 @@
   <a href="https://github.com/ThaynanRibeiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynanribeiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>  
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=ThaynanRibeiro&theme=dark&border=06DD00&background=000000&sideLabels=06DD00&stroke=06DD00)](https://git.io/streak-stats"/>
    <h1 align="center"> Skills </h2>
    </div>
   
@@ -58,3 +57,5 @@ Here are some ideas to get you started:
 - ?? How to reach me: ...
 - ?? Pronouns: ...
 - ? Fun fact: ... 
+
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=ThaynanRibeiro&theme=dark&border=06DD00&background=000000&sideLabels=06DD00&stroke=06DD00)](https://git.io/streak-stats"/>
