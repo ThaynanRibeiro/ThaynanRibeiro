@@ -11,7 +11,7 @@
  <div>
   <a href="https://github.com/ThaynanRibeiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynanribeiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=chartreuse-light"/>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynanribeiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>  
    <h1 align="center"> Skills </h2>
    </div>
   
